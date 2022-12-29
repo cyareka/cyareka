@@ -12,7 +12,7 @@ shea/rds
 now playing:
 + [java, html/css]
 0:00 ─〇───── 0:00
-  ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
+⇄  ◃◃  ⅠⅠ  ▹▹  ↻
 
 queue:
 - python, sql, js
