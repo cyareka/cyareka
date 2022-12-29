@@ -8,6 +8,7 @@
 ```diff
 shea/rds 
 ↝ aspiring full stack dev
+ೃ bs it (is)
 
 now playing:
 + [java, html/css]
