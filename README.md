@@ -8,14 +8,14 @@
 ```diff
 shea/rds 
 ↝ aspiring full stack dev
-ೃ bs it (is)
+ೃ info sec student !
 
 now playing:
-+ [java, html/css]
++ [java, html/css, php, mysql, js]
 0:00 ─〇───── 0:00
 ⇄  ◃◃  ⅠⅠ  ▹▹  ↻
 
 queue:
-- python, sql, js
+- python, flutter/dart
 ```
 
