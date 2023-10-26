@@ -6,7 +6,7 @@
 </div>
 
 ```diff
-shea/rds 
+ards
 ↝ aspiring full stack dev
 ೃ info sec student !
 
